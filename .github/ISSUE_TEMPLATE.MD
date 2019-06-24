@@ -1,5 +1,5 @@
 ### GAV
-    [如 com.alibaba:fastjson:1.1.71 ,version可不写<br>]
+    [如 com.alibaba:fastjson:1.1.71 ,version一般不写<br>]
     
 ### docs地址
     简介:[简介说明]
