@@ -1,3 +1,8 @@
+---
+name: 添加Library文档模板
+about: 当您想要添加Library时，使用此模板！
+---
+
 ### GAV
     [如 com.alibaba:fastjson:1.1.71 ,version一般不写<br>]
     
